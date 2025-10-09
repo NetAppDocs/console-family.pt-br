@@ -38,7 +38,7 @@ product-family:
     summary: Saiba como começar a usar o NetApp Console, incluindo a configuração
       de gerenciamento de acesso e agentes.
     tags: all, console, agents
-  - title: Serviços de dados NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Proteja e garanta a segurança da sua infraestrutura de armazenamento.
@@ -52,7 +52,7 @@ product-family:
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: Saiba o que há de novo em toda a plataforma e serviços de dados do NetApp
-      Console.
+      Console .
     tags: all
   - title: API
     icon: "./media/icon-api.png"
@@ -70,7 +70,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: Inteligência acionável para saúde ideal do armazenamento.
-  - title: Licenças e assinaturas
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
