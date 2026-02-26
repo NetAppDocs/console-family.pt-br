@@ -35,8 +35,8 @@ product-family:
   - title: Administração do NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Saiba como começar a usar o NetApp Console, incluindo a configuração
-      de gerenciamento de acesso e agentes.
+    summary: Aprenda como começar a usar o NetApp Console, incluindo a configuração
+      do gerenciamento de acesso e dos agentes do Console.
     tags: all, console, agents
   - title: NetApp Data Services
     icon: "./media/icon-backup.png"
@@ -65,6 +65,12 @@ product-family:
     summary: Use soluções com script para automatizar a implantação e a integração
       de produtos e serviços da NetApp .
     tags: all,governance
+  - title: Data Infrastructure Insights
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
+    tags: all,governance
+    summary: Monitore, solucione problemas e otimize todos os seus recursos incluindo
+      suas nuvens públicas e seus data centers privados.
   - title: Consultor digital (Active IQ)
     icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"

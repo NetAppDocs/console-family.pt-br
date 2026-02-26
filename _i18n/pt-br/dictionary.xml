@@ -151,7 +151,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">Proteção</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Armazenar</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabalho</block>
-  <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">Saiba como começar a usar o NetApp Console, incluindo a configuração de gerenciamento de acesso e agentes.</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">Proteja e garanta a segurança da sua infraestrutura de armazenamento.</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">Gerenciamento de armazenamento</block>
@@ -179,4 +178,7 @@
   <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">Este é um ID gerado pelo sistema que mapeia para seu e-mail. Na página *NSS Management*, você pode exibir seu e-mail do<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Se você precisar atualizar seus tokens de credenciais de login, também há uma opção *Atualizar credenciais* no<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">Aprenda como começar a usar o NetApp Console, incluindo a configuração do gerenciamento de acesso e dos agentes do Console.</block>
+  <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
+  <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">Monitore, solucione problemas e otimize todos os seus recursos incluindo suas nuvens públicas e seus data centers privados.</block>
 </blocks>
