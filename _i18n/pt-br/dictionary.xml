@@ -181,4 +181,6 @@
   <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">Aprenda como começar a usar o NetApp Console, incluindo a configuração do gerenciamento de acesso e dos agentes do Console.</block>
   <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
   <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">Monitore, solucione problemas e otimize todos os seus recursos incluindo suas nuvens públicas e seus data centers privados.</block>
+  <block id="1f669523a45bf910651af3583e944a20" category="sidebar">Painel de controle bem arquitetado</block>
+  <block id="25963fb45cc76c001f06c6648e51d7be" category="sidebar">Mantenha configurações de armazenamento confiáveis, seguras, eficientes e econômicas com base nas melhores práticas.</block>
 </blocks>

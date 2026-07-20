@@ -104,3 +104,8 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: Monitore o impacto ambiental dos sistemas para atingir metas de sustentabilidade.
     tags: all,health
+  - title: Painel de controle bem arquitetado
+    url: https://docs.netapp.com/us-en/console-well-architected/index.html
+    summary: Mantenha configurações de armazenamento confiáveis, seguras, eficientes
+      e econômicas com base nas melhores práticas.
+    tags: all,health,storage
