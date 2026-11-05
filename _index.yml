@@ -64,6 +64,13 @@ product-family:
     tags: all,governance
     summary: Monitore, solucione problemas e otimize todos os seus recursos incluindo
       suas nuvens públicas e seus data centers privados.
+  - title: AI Data Engine
+    icon: "./media/icon-tiering.png"
+    url: https://docs.netapp.com/us-en/netapp-aide/index.html
+    tags: all,governance
+    summary: Identifique oportunidades de otimização de armazenamento, gerencie decisões
+      sobre o ciclo de vida dos dados e tome medidas com base nos seus dados diretamente
+      do NetApp Console.
   - title: Consultor digital (Active IQ)
     url: "../active-iq/index.html"
     tags: all,health
